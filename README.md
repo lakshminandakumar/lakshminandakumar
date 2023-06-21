@@ -43,3 +43,11 @@ I am a Senior QA Engineer/SDET with over 14 years of industry experience.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lakshminandakumar&layout=compact&theme=shadow_red&background=ffffff)](https://github.com/anuraghazra/github-readme-stats)
 
+### :writing_hand: Blog Posts :
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+
+
+
