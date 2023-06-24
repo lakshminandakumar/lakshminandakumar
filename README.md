@@ -39,7 +39,7 @@ I am a Senior QA Engineer/SDET & a quality engineering enthusiast with over 14 y
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lakshminandakumar&theme=rose&background=ffffff)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lakshminandakumar&theme=shadow_red)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lakshminandakumar&layout=compact&theme=shadow_red&background=ffffff)](https://github.com/anuraghazra/github-readme-stats)
 
