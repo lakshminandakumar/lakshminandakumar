@@ -7,7 +7,7 @@
 
 I'm a Senior QA Engineer/SDET & a quality engineering enthusiast with over 14 years of industry experience. I like to explore different kinds of testing in order to improve quality...
 
-- :telescope: I’m currently working as a Senior QA Engineer/SDET, responsible for the building test automation frameworks from scratch, for web applications and Kafka streams.
+- :telescope: I’m currently working as a Senior QA Engineer/SDET, responsible for the building test automation frameworks from scratch, for web applications, API testing, Contract testing and Kafka event streaming.
 
 - :seedling: Exploring Technical Content Writing.
 
