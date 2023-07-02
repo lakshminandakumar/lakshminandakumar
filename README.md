@@ -9,7 +9,7 @@ I'm a Senior QA Engineer/SDET & a quality engineering enthusiast with over 14 ye
 
 - :telescope: I’m currently working as a Senior QA Engineer/SDET, responsible for the building test automation frameworks from scratch, for web applications, API testing, Contract testing and Kafka event streaming.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: I'm also exploring Technical Content Writing at the moment. Please take a look at my website to see my articles 🙂
 
 - :zap: When I'm not working you'll find me engrossed in a book. I'm a typical bookworm & a voracious reader. I write technical blogs too. I practice yoga & meditation to connect my mind with my body & find peace. I also like to spend time in the nature, therefore enjoy bike riding, hiking & going on long walks.
 
