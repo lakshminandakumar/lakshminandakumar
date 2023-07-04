@@ -26,8 +26,8 @@ I'm a Senior QA Engineer/SDET & a quality engineering enthusiast with over 14 ye
   <img src="https://github.com/lakshminandakumar/lakshminandakumar/assets/24980790/70305e18-295b-4cd9-a3c4-3353289683b3" title="Applitools" alt="Applitools" width="40" height="40"/>
   <img src="https://github.com/lakshminandakumar/lakshminandakumar/assets/24980790/fa83dad7-3c90-4f31-9eff-8692d53eb65b" title="Percy" alt="Percy" width="40" height="40"/>
   <img src="https://github.com/lakshminandakumar/lakshminandakumar/assets/24980790/ab4f5355-5996-4c3d-9882-a86f88f4c47a" title="Browserstack" alt="Browserstack" width="40" height="40"/>
+  <img src="https://github.com/lakshminandakumar/lakshminandakumar/assets/24980790/32ad5a65-ef90-4179-aad8-7531f1053594" title="TestRail" alt="TestRail" width="40" height="40"/>
 </div>
-
 
 ### :computer: Programming Languages:
 
