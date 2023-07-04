@@ -43,7 +43,7 @@ I'm a Senior QA Engineer/SDET & a quality engineering enthusiast with over 14 ye
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/lakshminandakumar/lakshminandakumar/assets/24980790/d1af2cbd-217c-4b66-b7d0-4feada1a3d60" title="MySQL"  alt="MySQL" width="50" height="40"/>&nbsp;
 </div>
 
 ### :hammer_and_wrench: Other Tools: 
