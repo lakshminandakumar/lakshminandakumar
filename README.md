@@ -28,8 +28,8 @@ I'm a Senior QA Engineer/SDET & a quality engineering enthusiast with over 14 ye
   <img src="https://github.com/lakshminandakumar/lakshminandakumar/assets/24980790/ab4f5355-5996-4c3d-9882-a86f88f4c47a" title="Browserstack" alt="Browserstack" width="40" height="40"/>
   <img src="https://github.com/lakshminandakumar/lakshminandakumar/assets/24980790/32ad5a65-ef90-4179-aad8-7531f1053594" title="TestRail" alt="TestRail" width="40" height="40"/>
   <img src="https://github.com/lakshminandakumar/lakshminandakumar/assets/24980790/6c2bca41-713b-4860-8892-63ab1317b91a" title="Zephyr" alt="Zephyr" width="40" height="40"/>
+  <img src="https://github.com/lakshminandakumar/lakshminandakumar/assets/24980790/b830fb45-ff01-4df1-ac26-fe660023c07b" title="XRay" alt="XRay" width="45" height="40"/>
 </div>
-
 
 ### :computer: Programming Languages:
 
