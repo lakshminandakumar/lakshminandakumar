@@ -24,7 +24,9 @@ I'm a Senior QA Engineer/SDET & a quality engineering enthusiast with over 14 ye
   <img src="https://github.com/devicons/devicon/blob/master/icons/cucumber/cucumber-plain.svg" title="Cucumber" alt="Cucumber" width="40" height="40"/>&nbsp;
   <img src="https://icomoon.io/iconsabf18a1/4/617.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
   <img src="https://github.com/lakshminandakumar/lakshminandakumar/assets/24980790/70305e18-295b-4cd9-a3c4-3353289683b3" title="Applitools" alt="Applitools" width="40" height="40"/>
+  <img src="https://github.com/lakshminandakumar/lakshminandakumar/assets/24980790/fa83dad7-3c90-4f31-9eff-8692d53eb65b" title="Percy" alt="Percy" width="40" height="40"/>
 </div>
+
 
 ### :computer: Programming Languages:
 
