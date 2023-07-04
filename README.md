@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-### :woman_technologist: About Me :
+### :woman_technologist: About Me:
 
 I'm a Senior QA Engineer/SDET & a quality engineering enthusiast with over 14 years of industry experience. I like to explore different kinds of testing in order to improve quality...
 
@@ -15,17 +15,25 @@ I'm a Senior QA Engineer/SDET & a quality engineering enthusiast with over 14 ye
 
 - :speech_balloon: Please feel free to connect with me on: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lakshmi-a-nandakumar/) [![Website Badge](https://img.shields.io/badge/Website-black?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@lakshmi.a.nandakumar) [![Twitter Badge](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/testeratheart) 
 
-### :hammer_and_wrench: Languages and Tools :
-
-<div> 
+### :lady_beetle: Testing Tools:
+<div>
   <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/cypress.svg" title="Cypress" **alt="Cypress" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" **alt="Selenium" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cucumber/cucumber-plain.svg" title="Cucumber" alt="Cucumber" width="40" height="40"/>&nbsp;
   <img src="https://icomoon.io/iconsabf18a1/4/617.svg" title="Postman"alt="Postman" width="40" height="40"/>&nbsp;
+</div>
+
+### :computer: Programming Languages:
+
+<div> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+</div>
+
+### :hammer_and_wrench: Other Tools: 
+<div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" **alt="GitHub" width="40" height="40"/>
@@ -35,15 +43,13 @@ I'm a Senior QA Engineer/SDET & a quality engineering enthusiast with over 14 ye
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" **alt="Jira" width="40" height="40"/>
 </div>
 
-
-
-### :fire: My Stats :
+### :fire: My Stats:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lakshminandakumar&theme=rose&background=1c00ff00&border=000000&stroke=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lakshminandakumar&theme=shadow_red&background=ffffff)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- ### :writing_hand: Blog Posts : -->
+<!-- ### :writing_hand: Blog Posts: -->
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
