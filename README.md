@@ -15,13 +15,15 @@ I'm a Senior QA Engineer/SDET & a quality engineering enthusiast with over 14 ye
 
 - :speech_balloon: Please feel free to connect with me on: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lakshmi-a-nandakumar/) [![Website Badge](https://img.shields.io/badge/Website-black?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@lakshmi.a.nandakumar) [![Twitter Badge](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/testeratheart) 
 
-### :lady_beetle: Testing Tools:
+### :lady_beetle: Testing Frameworks & Tools:
 <div>
   <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/cypress.svg" title="Cypress" **alt="Cypress" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" **alt="Selenium" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cucumber/cucumber-plain.svg" title="Cucumber" alt="Cucumber" width="40" height="40"/>&nbsp;
-  <img src="https://icomoon.io/iconsabf18a1/4/617.svg" title="Postman"alt="Postman" width="40" height="40"/>&nbsp;
+  <img src="https://icomoon.io/iconsabf18a1/4/617.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/lakshminandakumar/lakshminandakumar/assets/24980790/70305e18-295b-4cd9-a3c4-3353289683b3" title="Applitools" alt="Applitools" width="40" height="40"/>
 </div>
+
 
 ### :computer: Programming Languages:
 
