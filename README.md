@@ -19,8 +19,8 @@ I'm a Senior QA Engineer/SDET & a quality engineering enthusiast with over 14 ye
 <div>
   <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/cypress.svg" title="Cypress" **alt="Cypress" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" **alt="Selenium" width="40" height="40"/>
-    <img src="https://github.com/lakshminandakumar/lakshminandakumar/assets/24980790/35f9b0f0-e4fb-45d4-87be-c4470146858a" title="Playwright" alt="Playwright" width="50" height="40"/>
-  <img src="https://github.com/lakshminandakumar/lakshminandakumar/assets/24980790/9683da4e-a54f-4e41-bd1b-4d70f7075d31" title="Webdriver IO" alt="Webdriver IO" width="50" height="40"/>
+  <!-- <img src="https://github.com/lakshminandakumar/lakshminandakumar/assets/24980790/35f9b0f0-e4fb-45d4-87be-c4470146858a" title="Playwright" alt="Playwright" width="50" height="40"/> -->
+  <!-- <img src="https://github.com/lakshminandakumar/lakshminandakumar/assets/24980790/9683da4e-a54f-4e41-bd1b-4d70f7075d31" title="Webdriver IO" alt="Webdriver IO" width="50" height="40"/> -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/cucumber/cucumber-plain.svg" title="Cucumber" alt="Cucumber" width="40" height="40"/>&nbsp;
   <img src="https://icomoon.io/iconsabf18a1/4/617.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
   <img src="https://github.com/lakshminandakumar/lakshminandakumar/assets/24980790/70305e18-295b-4cd9-a3c4-3353289683b3" title="Applitools" alt="Applitools" width="40" height="40"/>
