@@ -16,6 +16,7 @@ I'm a Senior QA Engineer/SDET & a quality engineering enthusiast with over 14 ye
 - :speech_balloon: Please feel free to connect with me on: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lakshmi-a-nandakumar/) [![Website Badge](https://img.shields.io/badge/Website-black?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@lakshmi.a.nandakumar) [![Twitter Badge](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/testeratheart) 
 
 ### :lady_beetle: Testing Frameworks & Tools:
+
 <div>
   <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/cypress.svg" title="Cypress" **alt="Cypress" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" **alt="Selenium" width="40" height="40"/>
@@ -26,6 +27,11 @@ I'm a Senior QA Engineer/SDET & a quality engineering enthusiast with over 14 ye
   <img src="https://github.com/lakshminandakumar/lakshminandakumar/assets/24980790/70305e18-295b-4cd9-a3c4-3353289683b3" title="Applitools" alt="Applitools" width="40" height="40"/>
   <img src="https://github.com/lakshminandakumar/lakshminandakumar/assets/24980790/fa83dad7-3c90-4f31-9eff-8692d53eb65b" title="Percy" alt="Percy" width="40" height="40"/>
   <img src="https://github.com/lakshminandakumar/lakshminandakumar/assets/24980790/ab4f5355-5996-4c3d-9882-a86f88f4c47a" title="Browserstack" alt="Browserstack" width="40" height="40"/>
+</div>
+
+### :test_tube: Test Management Tools:
+
+<div>
   <img src="https://github.com/lakshminandakumar/lakshminandakumar/assets/24980790/efadec90-6789-443f-b2a6-4ed5db3b4b8e" title="TestRail" alt="TestRail" width="40" height="40"/>
   <img src="https://github.com/lakshminandakumar/lakshminandakumar/assets/24980790/6c2bca41-713b-4860-8892-63ab1317b91a" title="Zephyr" alt="Zephyr" width="40" height="40"/>
   <img src="https://github.com/lakshminandakumar/lakshminandakumar/assets/24980790/b830fb45-ff01-4df1-ac26-fe660023c07b" title="XRay" alt="XRay" width="45" height="40"/>
@@ -41,6 +47,7 @@ I'm a Senior QA Engineer/SDET & a quality engineering enthusiast with over 14 ye
 </div>
 
 ### :hammer_and_wrench: Other Tools: 
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
