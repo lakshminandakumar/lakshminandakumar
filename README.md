@@ -9,11 +9,11 @@ I'm a Senior QA Engineer/SDET & a quality engineering enthusiast with over 14 ye
 
 - :telescope: I’m currently working as a Senior QA Engineer/SDET, responsible for the building test automation frameworks from scratch, for web applications, API testing, Contract testing and Kafka event streaming.
 
-- :seedling: I'm exploring Technical Content Writing at the moment. Please take a look at my website to see my articles 🙂
+- :seedling: I'm exploring Technical Content Writing at the moment. Please take a look at my website to see my articles :slightly_smiling_face:
   
 - :woman_teacher: I'm also a GirlCode Ambassador and Mentor.
 
-- :zap: When I'm not working you'll find me engrossed in a book. I'm a typical bookworm & a voracious reader 📖. I write technical blogs too 📝. I practice yoga & meditation 🧘‍♀️ to connect my mind with my body & find peace. I also like to spend time in the nature, therefore enjoy bike riding 🚴‍♀️, hiking & going on long walks 🚶‍♀️.
+- :zap: When I'm not working you'll find me engrossed in a book. I'm a typical bookworm & a voracious reader :book:. I write technical blogs too :pencil:. I practice yoga & meditation :lotus_position_woman: to connect my mind with my body & find peace. I also like to spend time in the nature, therefore enjoy bike riding :biking_woman:, hiking & going on long walks :walking_woman:.
 
 - :speech_balloon: Please feel free to connect with me on: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lakshmi-a-nandakumar/) [![Website Badge](https://img.shields.io/badge/Website-black?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@lakshmi.a.nandakumar) [![Twitter Badge](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/testeratheart) 
 
