@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-### :woman_technologist: About Me:
+<h3>:woman_technologist: About Me:</h3>
 
 I'm a Senior QA Engineer/SDET & a quality engineering enthusiast with over 14 years of industry experience. I like to explore different kinds of testing in order to improve quality...
 
@@ -15,9 +15,9 @@ I'm a Senior QA Engineer/SDET & a quality engineering enthusiast with over 14 ye
 
 - :zap: When I'm not working you'll find me engrossed in a book. I'm a typical bookworm & a voracious reader :book:. I write technical blogs too :pencil:. I practice yoga & meditation :lotus_position_woman: to connect my mind with my body & find peace. I enjoy spending time in the nature, with activities like bike riding :biking_woman:, hiking & long walks :walking_woman:.
 
-- :speech_balloon: Please feel free to connect with me on: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lakshmi-a-nandakumar/) [![Website Badge](https://img.shields.io/badge/Website-black?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@lakshmi.a.nandakumar) [![Twitter Badge](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/testeratheart) 
+- :speech_balloon: Please feel free to connect with me on: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lakshmi-a-nandakumar/) [![Website Badge](https://img.shields.io/badge/Website-black?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@lakshmi.a.nandakumar) [![Twitter Badge](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/testeratheart) </br></br>
 
-### :lady_beetle: Testing Frameworks & Tools:
+<h3>:lady_beetle: Testing Frameworks & Tools:</h3>
 
 <div>
   <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/cypress.svg" title="Cypress" **alt="Cypress" width="40" height="40"/>
@@ -33,7 +33,7 @@ I'm a Senior QA Engineer/SDET & a quality engineering enthusiast with over 14 ye
 </div>
 
 
-### :test_tube: Test Management Tools:
+<h3>:test_tube: Test Management Tools:</h3>
 
 <div>
   <img src="https://github.com/lakshminandakumar/lakshminandakumar/assets/24980790/efadec90-6789-443f-b2a6-4ed5db3b4b8e" title="TestRail" alt="TestRail" width="40" height="40"/>
@@ -41,7 +41,7 @@ I'm a Senior QA Engineer/SDET & a quality engineering enthusiast with over 14 ye
   <img src="https://github.com/lakshminandakumar/lakshminandakumar/assets/24980790/b830fb45-ff01-4df1-ac26-fe660023c07b" title="XRay" alt="XRay" width="45" height="40"/>
 </div>
 
-### :computer: Programming Languages:
+<h3>:computer: Programming Languages:</h3>
 
 <div> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -50,7 +50,7 @@ I'm a Senior QA Engineer/SDET & a quality engineering enthusiast with over 14 ye
   <img src="https://github.com/lakshminandakumar/lakshminandakumar/assets/24980790/d1af2cbd-217c-4b66-b7d0-4feada1a3d60" title="MySQL"  alt="MySQL" width="50" height="40"/>&nbsp;
 </div>
 
-### :hammer_and_wrench: Other Tools: 
+<h3>:hammer_and_wrench: Other Tools:</h3>
 
 <div>
   <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp; -->
@@ -61,14 +61,14 @@ I'm a Senior QA Engineer/SDET & a quality engineering enthusiast with over 14 ye
   <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" **alt="Jenkins" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" **alt="Jira" width="40" height="40"/>
 </div>
-
-### :fire: My Stats:
+</br></br>
+<h3>:fire: My Stats:</h3>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lakshminandakumar&theme=rose&background=1c00ff00&border=000000&stroke=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lakshminandakumar&theme=shadow_red&background=ffffff)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- ### :writing_hand: Blog Posts: -->
+<!-- <h3>:writing_hand: Blog Posts:</h3> -->
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
