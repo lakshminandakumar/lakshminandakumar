@@ -11,7 +11,7 @@ I'm a Senior QA Engineer/SDET & a quality engineering enthusiast with over 14 ye
 
 - :seedling: I'm exploring Technical Content Writing at the moment. Please take a look at my website to see my articles :slightly_smiling_face:
   
-- :woman_teacher: I'm also a GirlCode Ambassador and Mentor.
+- :woman_teacher: I'm also an Applitools Ambassador and a GirlCode Ambassador & Mentor.
 
 - :zap: When I'm not working you'll find me engrossed in a book. I'm a typical bookworm & a voracious reader :book:. I write technical blogs too :pencil:. I practice yoga & meditation :lotus_position_woman: to connect my mind with my body & find peace. I enjoy spending time in the nature, with activities like bike riding :biking_woman:, hiking & long walks :walking_woman:.
 
