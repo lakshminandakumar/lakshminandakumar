@@ -15,7 +15,7 @@ I'm a Senior QA Engineer/SDET & a quality engineering enthusiast with over 14 ye
 
 - :zap: When I'm not working you'll find me engrossed in a book. I'm a typical bookworm & a voracious reader :book:. I write technical blogs too :pencil:. I practice yoga & meditation :lotus_position_woman: to connect my mind with my body & find peace. I enjoy spending time in the nature, with activities like bike riding :biking_woman:, hiking & long walks :walking_woman:.
 
-- :speech_balloon: Please feel free to connect with me on: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lakshmi-a-nandakumar/) [![Website Badge](https://img.shields.io/badge/Website-black?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@lakshmi.a.nandakumar) [![Twitter Badge](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/testeratheart) </br></br>
+- :speech_balloon: Please feel free to connect with me on: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lakshmi-a-nandakumar/) [![Website Badge](https://img.shields.io/badge/Website-black?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@lakshmi.a.nandakumar)</br></br>
 
 <h3>:lady_beetle: Testing Frameworks & Tools:</h3>
 
